@@ -1,5 +1,5 @@
 # IPLab1
-Source code of Glasgow college UESTC Introductory Programming Lab1.
+Source code for Glasgow college UESTC Introductory Programming Lab session 1.
 
-# WeChatID baptiste_fourier
+# QID 1281951835
 # Created by 提醒别学小助手
